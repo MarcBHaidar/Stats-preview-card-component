@@ -20,7 +20,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/desktop-screenshot.png)
+![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/desktop-screenshot.png)
 
 
 ### Links
