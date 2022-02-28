@@ -21,7 +21,7 @@ Users should be able to:
 ### Screenshot
 
 ![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/desktop-screenshot.png)
-![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/desktop-screenshot.png)
+![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/mobile-screenshot.png)
 
 
 ### Links
