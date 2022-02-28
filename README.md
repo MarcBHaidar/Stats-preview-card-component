@@ -23,7 +23,6 @@ Users should be able to:
 ![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/desktop-screenshot.jpg)
 ![](https://github.com/MarcBHaidar/Stats-preview-card-component/blob/main/images/mobile-screenshot.jpg)
 
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
